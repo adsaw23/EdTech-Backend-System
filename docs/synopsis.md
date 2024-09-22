@@ -46,24 +46,17 @@ The project follows a modular structure, with each component organized into its 
 SLTech-Backend-System/
 │
 ├── src/
-│   ├── user.py          # Contains the User, Learner, and Instructor classes
-│   ├── course.py        # Contains the Course class
-│   ├── enrollment.py    # Contains the Enrollment class
-│   ├── backend.py       # SLTechBackend class and main program logic
-│   └── __init__.py      # Makes src a package (optional)
-│   
-├── tests/
-│   └── test_backend.py  # Unit tests for backend system
+│   ├── user_class.py           # Contains the User class
+│   ├── learner_class.py        # Contains the Learner class
+│   ├── instructor_class.py     # Contains the Instructor class
+│   ├── course_class.py         # Contains the Course class
+│   ├── enrollment_class.py     # Contains the Enrollment class
+│   ├── EdTechBackend.py        # SLTechBackend class
+│   ├── user_input_interface.py # Contains the main program logic
 │
 ├── docs/
 │   └── README.md        # Overview and usage
 │   └── synopsis.md      # Detailed project synopsis
-│
-├── requirements.txt     # Dependencies (if any)
-│
-├── .gitignore           # Files/folders to ignore
-│
-└── LICENSE              # License information
 ```
 ## Technologies Used
    - Python: The project is developed using Python for its simplicity, versatility, and strong support for object-oriented programming.

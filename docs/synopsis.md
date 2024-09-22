@@ -30,11 +30,11 @@ The SL Tech Backend System is a modular backend solution designed for SL Tech, a
  4. Interactive CLI:
 
    - An interactive command-line interface allows administrators to:
-      - - Add learners and instructors.
-      - - Create new courses.
-      - - Enroll or remove learners from courses.
-      - - Assign or remove instructors from courses.
-      - - List learners and instructors associated with courses.
+       - Add learners and instructors.
+       - Create new courses.
+       - Enroll or remove learners from courses.
+       - Assign or remove instructors from courses.
+       - List learners and instructors associated with courses.
 
  5. Modular Design:
 

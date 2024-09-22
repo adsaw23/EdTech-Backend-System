@@ -23,5 +23,5 @@ This project is a backend system for SL Tech, an edtech platform that manages us
 
 3. Run the program:
     ```bash
-    python Ed-Tech-Backend-System/src
+    python Ed-Tech-Backend-System/src/user_input_interface.py
     ```

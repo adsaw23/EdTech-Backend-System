@@ -1,4 +1,4 @@
-# Project Synopsis: SL Tech Backend System
+# Project Synopsis: EdTech Backend System
 
 ## Project Overview
 The SL Tech Backend System is a modular backend solution designed for SL Tech, an edtech platform that offers a variety of technical and functional training programs. The system manages learners, instructors, and courses, providing features for user authentication, course enrollment, and instructor assignments. It also facilitates dynamic interactions through an interactive command-line interface.

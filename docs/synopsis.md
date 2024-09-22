@@ -55,8 +55,8 @@ SLTech-Backend-System/
 │   ├── user_input_interface.py # Contains the main program logic
 │
 ├── docs/
-│   └── README.md        # Overview and usage
-│   └── synopsis.md      # Detailed project synopsis
+│   └── README.md               # Overview and usage
+│   └── synopsis.md             # Detailed project synopsis
 ```
 ## Technologies Used
    - Python: The project is developed using Python for its simplicity, versatility, and strong support for object-oriented programming.

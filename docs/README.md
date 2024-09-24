@@ -1,4 +1,4 @@
-# SL Tech Backend System
+# EdTech Backend System
 
 ## Project Overview
 This project is a backend system for SL Tech, an edtech platform that manages users, courses, and enrollments. It supports learner and instructor management, course enrollment, and interactive input for easy backend administration.
